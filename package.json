@@ -3,13 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://viku90.github.io/react_form",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeplo"
+    
   },
   "dependencies": {
     "react": "^18.3.1",
